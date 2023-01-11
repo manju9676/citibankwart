@@ -1,4 +1,4 @@
-<!DOCTYPE htmpl>
+<!DOCTYPE html>
 <html>
 <body>
 <h2>Hello World! this is surya .....</h2>
